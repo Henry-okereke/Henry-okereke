@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/Henry-okereke/Henry-Ok-Intro/blob/main/Welcome%20logo.png)
+![](https://github.com/Henry-okereke/Henry-okereke/blob/main/Welcome%20logo.png)
 # Henry Nnamdi Okereke
 ### Cloud Data Analyst | Business Intelligence Analyst
 
